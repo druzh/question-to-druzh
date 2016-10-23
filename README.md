@@ -1,17 +1,10 @@
 Hello druzh,
 
-My name is Pavel Tashev. I noticed that you have reserved the organization name "easymail" which has one empty repository. 
-With a friend of mine we are working on an OpenSource project which is called EasyMail. Its idea is very simple, to provide
-a solution which can be used by anyone for free to build a mail server which is able to send hundreds of emails for free.
+I presume that you have read my "message" _(pull request)_. I suppose you would like to keep "easymail" and you are working on a project which will be published there. The way I contacted you might be a bit irritating for you but I had to try. I hope you understand that. 
 
-I don't know if that's the right way to do that, but I would like to ask you whether you are going to use the organization name "easymail"
-and if not, may I please ask you to release it in order to use it for the OpenSource project.
+Our team will search for another proper name for the OpenSource product. 
 
-I will be very thankful if that's possible.
-
-My contacts are:
-p.d.tashev@gmail.com
-+44 7624 213 223
+In case you are interested in what we do, we can share more info and the whole product.
 
 Regards,
 Pavel Tashev
